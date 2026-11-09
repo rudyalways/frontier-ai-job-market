@@ -3,128 +3,128 @@
   "roles": 804,
   "charts": {
     "levels": [
-      [
-        "intern/new grad",
-        10
-      ],
-      [
-        "mid/unspecified",
-        585
-      ],
-      [
-        "senior",
-        55
-      ],
-      [
-        "staff+",
-        154
-      ]
+      {
+        "label": "intern/new grad",
+        "value": 10
+      },
+      {
+        "label": "mid/unspecified",
+        "value": 585
+      },
+      {
+        "label": "senior",
+        "value": 55
+      },
+      {
+        "label": "staff+",
+        "value": 154
+      }
     ],
     "families": [
-      [
-        "engineering",
-        463
-      ],
-      [
-        "ml/research",
-        184
-      ],
-      [
-        "hardware",
-        74
-      ],
-      [
-        "security",
-        61
-      ],
-      [
-        "sales/gtm",
-        8
-      ],
-      [
-        "other",
-        6
-      ],
-      [
-        "design",
-        6
-      ],
-      [
-        "operations",
-        2
-      ]
+      {
+        "label": "engineering",
+        "value": 463
+      },
+      {
+        "label": "ml/research",
+        "value": 184
+      },
+      {
+        "label": "hardware",
+        "value": 74
+      },
+      {
+        "label": "security",
+        "value": 61
+      },
+      {
+        "label": "sales/gtm",
+        "value": 8
+      },
+      {
+        "label": "other",
+        "value": 6
+      },
+      {
+        "label": "design",
+        "value": 6
+      },
+      {
+        "label": "operations",
+        "value": 2
+      }
     ],
     "quarters": [
-      [
-        "2023-Q2",
-        1
-      ],
-      [
-        "2023-Q3",
-        1
-      ],
-      [
-        "2024-Q2",
-        6
-      ],
-      [
-        "2024-Q3",
-        1
-      ],
-      [
-        "2024-Q4",
-        7
-      ],
-      [
-        "2025-Q1",
-        12
-      ],
-      [
-        "2025-Q2",
-        18
-      ],
-      [
-        "2025-Q3",
-        25
-      ],
-      [
-        "2025-Q4",
-        42
-      ],
-      [
-        "2026-Q1",
-        72
-      ],
-      [
-        "2026-Q2",
-        112
-      ],
-      [
-        "2026-Q3",
-        315
-      ],
-      [
-        "2026-Q4",
-        192
-      ]
+      {
+        "label": "2023-Q2",
+        "value": 1
+      },
+      {
+        "label": "2023-Q3",
+        "value": 1
+      },
+      {
+        "label": "2024-Q2",
+        "value": 6
+      },
+      {
+        "label": "2024-Q3",
+        "value": 1
+      },
+      {
+        "label": "2024-Q4",
+        "value": 7
+      },
+      {
+        "label": "2025-Q1",
+        "value": 12
+      },
+      {
+        "label": "2025-Q2",
+        "value": 18
+      },
+      {
+        "label": "2025-Q3",
+        "value": 25
+      },
+      {
+        "label": "2025-Q4",
+        "value": 42
+      },
+      {
+        "label": "2026-Q1",
+        "value": 72
+      },
+      {
+        "label": "2026-Q2",
+        "value": 112
+      },
+      {
+        "label": "2026-Q3",
+        "value": 315
+      },
+      {
+        "label": "2026-Q4",
+        "value": 192
+      }
     ],
     "companies": [
-      [
-        "OpenAI",
-        368
-      ],
-      [
-        "Anthropic",
-        260
-      ],
-      [
-        "xAI",
-        118
-      ],
-      [
-        "Perplexity",
-        58
-      ]
+      {
+        "label": "OpenAI",
+        "value": 368
+      },
+      {
+        "label": "Anthropic",
+        "value": 260
+      },
+      {
+        "label": "xAI",
+        "value": 118
+      },
+      {
+        "label": "Perplexity",
+        "value": 58
+      }
     ]
   },
   "source": "https://frontierrehearsal.com/jobs/market",
